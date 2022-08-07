@@ -8,7 +8,7 @@
     "keyring-backend": "test",
     "gas-adjustment": 1.2,
     "gas-prices": "0.001uatom",
-    "debug": "true,
+    "debug": "true",
     "timeout": "20s",
     "output-format": "json",
     "sign-mode": "sync"
